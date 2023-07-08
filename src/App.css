@@ -21,7 +21,7 @@ body {
 }
 
 .main_header {
-  background-image: url(../public/Group\ 12.svg);
+  background-image: url(/Group12.svg);
   /* max-width: 1440px; */
   width: 1440px;
   height: 372px;
